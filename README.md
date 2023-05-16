@@ -52,7 +52,7 @@ Ejemplo de implementación
                 </div>
                 //Texto del elemento
                 <div class="overlap-child-text">
-                    <p> Porcentaje de bacterias registradas en el cuerpo humano.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
 
 
@@ -63,8 +63,7 @@ Ejemplo de implementación
                 </div>
                 //Texto del elemento
                 <div class="overlap-child-text">
-                    <p>Cantidad de bacterias bacteroidetes en el cuerpo Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Voluptatem, minus veritatis quaerat dolorum anim</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
                 .
                 .
