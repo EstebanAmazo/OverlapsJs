@@ -38,16 +38,6 @@ $(document).ready(function () {
   
     if (overlapUpElement && overlapBottomElement && overlapChild && overlapContainer) {
   
-
-    /**
-     * Escuchando por el evento Scroll y a tavés del método .getBoundingClientRect() se evalua 
-     * la posición de overlapUpElement (elemento superior del conjunto de superposiciones) 
-     * overlapUpElement (elemento inferior del conjunto de superposiciones) 
-     * cuando dicho elemento se encuentra en determinado punto de la pantalla se agregará o eliminará
-     * la clase ".sticky" a todos los hijos de conjunto de superposiciones, lo cual mantendrá el conjunto
-     * de superposiciones anclado en el centro de la pantalla mientras de realiza la accion de scroll.
-     * 
-     */
       $(window).scroll(function () {
 
 
