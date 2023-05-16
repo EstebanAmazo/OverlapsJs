@@ -1,0 +1,74 @@
+@use 'variables' as v;
+@use 'mixins' as m;
+
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #141926;
+    padding-top: 60px;
+    padding-top: 30px;
+
+
+}
+
+footer 
+{
+    border-top: 1px solid rgb(200, 200, 200);
+    margin-top: 100px;
+    p{
+        text-align: center;
+    }
+  
+}
+
+p {
+    color: rgb(197, 197, 197);
+    text-align: justify;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+
+
+
+
+
+.global-container {
+    width: 95%;
+    max-width: 86rem;
+    margin: 0 auto;
+
+    @include m.for-desktop-up {
+        max-width: 74rem;
+    }
+
+    @include m.for-phone-only {
+        max-width: 340px;
+
+    }
+}
+
+
+.hidden {
+    display: none !important;
+}
+
+
+
