@@ -42,7 +42,7 @@ Ejemplo de implementación
           <p>Lorem ipsum.....</p>
         </div>
 
-        //Contenedor de los elementos a sobreponer mendiante scroll
+       <!--Contenedor de los elementos a sobreponer mendiante scroll-->
         <div class="overlap-container">
 
                <!-- Primer elemento del conjunto de sobreposiciones-->
