@@ -45,8 +45,8 @@ Ejemplo de implementación
         //Contenedor de los elementos a sobreponer mendiante scroll
         <div class="overlap-container">
 
-                // Primer elemento del conjunto de sobreposiciones
-                // Imagen del elemento
+               <!-- Primer elemento del conjunto de sobreposiciones-->
+                <!--Imagen del elemento-->
                 <div class="overlap-child">
                     <img src="src/img/1.svg" alt="">
                 </div>
@@ -56,8 +56,8 @@ Ejemplo de implementación
                 </div>
 
 
-                // Segundo elemento del conjunto de sobreposiciones
-                // Imagen del elemento
+               <!-- Segundo elemento del conjunto de sobreposiciones-->
+                <!-- Imagen del elemento-->
                 <div class="overlap-child">
                     <img src="src/img/2.svg" alt="">
                 </div>
