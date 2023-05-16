@@ -20,6 +20,8 @@ Agregar la clase `overlapo-bottom-element` al contenedor posterior en donde se v
 <div class="overlap-bottom-element"></div>
 ```
 
+DEMO: https://overlapsjsdemo.netlify.app/
+
 Ejemplo de implementación
 
 ```
@@ -50,7 +52,7 @@ Ejemplo de implementación
                 <div class="overlap-child">
                     <img src="src/img/1.svg" alt="">
                 </div>
-                //Texto del elemento
+                 <!-- Texto del elemento-->
                 <div class="overlap-child-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
@@ -61,7 +63,7 @@ Ejemplo de implementación
                 <div class="overlap-child">
                     <img src="src/img/2.svg" alt="">
                 </div>
-                //Texto del elemento
+                 <!--Texto del elemento-->
                 <div class="overlap-child-text">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
@@ -81,5 +83,5 @@ Ejemplo de implementación
  </html>
  ```
 
-DEMO: https://overlapsjsdemo.netlify.app/
+
 
