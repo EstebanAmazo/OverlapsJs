@@ -10,11 +10,11 @@ El codigo necesario se encuentra en /app.js y overlapsJs.css
 Requerido: JQuery
 
 
-Agregar la clase `overlapo-up-element` al contenedor anterior en donde se va a implementar el efecto de animación de scroll
+Agregar la clase `overlap-up-element` al contenedor anterior en donde se va a implementar el efecto de animación de scroll
 ```
 <div class="overlap-up-element"></div>
 ```
-Agregar la clase `overlapo-bottom-element` al contenedor posterior en donde se va a implementar el efecto de animación de scroll
+Agregar la clase `overlap-bottom-element` al contenedor posterior en donde se va a implementar el efecto de animación de scroll
 
 ```
 <div class="overlap-bottom-element"></div>
