@@ -65,7 +65,7 @@ $(document).ready(function () {
 
 
         /**
-         * Por defecto todos los hijos del conjunto de la superposición no son visibles a excepcion
+         * Por defecto todos los hijos del conjunto de la superposición no son visibles a excepción
          * del primer hijo, a medida que cada hijo alcanza una posicion en pantalla este se hará visible
          * sobrelapando a su elemento hermano superior. Cuando el scroll de la pantalla va hacia abajo,
          * se hará, entonces, No visible de nuevo, dando visibilidad a su hermano inferior

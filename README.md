@@ -2,10 +2,10 @@
 
 Librería en JavaScript para animación de sobreposición de elementos on scroll en pantalla.
 
-El codigo necesario se encuentra en /app.js y overlapsJs.css
+El codigo necesario se encuentra en /overlaps.js y overlapsJs.css
 
 - incluir overlapsJs.css como estilos del proyecto
-- incluir app.js como script de tu proyecto
+- incluir overlaps.js como script de tu proyecto
 
 Requerido: JQuery
 
@@ -35,7 +35,7 @@ Ejemplo de implementación
         <link rel="stylesheet" href="overlapsJs.css">
         <script src="https://code.jquery.com/jquery-3.7.0.min.js"
             integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
-        <script src="app.js"></script>
+        <script src="overlaps.js"></script>
     </head>
 
     <body>
